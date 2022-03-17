@@ -15,4 +15,4 @@ const SHOPPING = () => (
   </Provider>
 );
 
-AppRegistry.registerComponent(appName, () => SHOPPING);
+AppRegistry.registerComponent('shopping', () => SHOPPING);
